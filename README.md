@@ -1,0 +1,1 @@
+# Percapita-Income-Prediction-using-Simple-Linear-Regression
